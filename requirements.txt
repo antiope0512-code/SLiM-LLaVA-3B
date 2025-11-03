@@ -1,0 +1,12 @@
+torch>=2.2
+transformers>=4.44
+accelerate>=0.33
+datasets>=2.20
+peft>=0.12
+tqdm>=4.66
+Pillow>=10.0
+nltk>=3.9
+pycocotools>=2.0.7
+pycocoevalcap @ git+https://github.com/salaniz/pycocoevalcap.git
+ipython
+ipywidgets
